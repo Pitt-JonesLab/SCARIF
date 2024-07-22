@@ -1,6 +1,8 @@
 # Team
 Principal Investigator: Prof. Peipei Zhou, https://peipeizhou-eecs.github.io/
 
+Replicated from Pitt-JonesLab
+
 Ph.D. Students: Shixin Ji (Student Lead), Zhuoping Yang, Xingzhen Chen
 
 Faculty Collaborators: Professors Jingtong Hu (Pitt), Yiyu Shi (Notre Dame), Alex Jones (Syracuse)
